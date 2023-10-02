@@ -5,5 +5,6 @@ As part of my Bachelor's thesis, I investigated the adaptive reuse of Alsancak's
 
 The factory is comprised of 9 buildings and 3 entrance security shelters. Made by the French in the 19th century, it features a mixed construction of bricks, concrete, steel, and timber. Most common structure organisation is the concrete basement and foundation, reinforced brick outer walls, steel inner columns, and a timber roof structure.
 
+![thumbnail](https://github.com/TalhaErenY/Tekel-Tutun-In-Revit/blob/main/Site%20Plan%20Thumbnail.jpg)
 
 The factory was modeled with the later 20th and 21st century additions removed, such as the 2 storey kindergarten added on top of an inner courtyard.
